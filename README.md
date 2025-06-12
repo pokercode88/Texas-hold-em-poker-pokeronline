@@ -1,5 +1,7 @@
 #Texas-hold-em-pokeronlien-Source-Code 德州扑克源码
-德州扑克源代码，出售德州游戏大厅源码，德州竞技者联盟模式代码，有短牌，sng，经典德州，竞技场，朋友局俱乐部。线上成功运营产品，上线iOS和google商店。代码稳定，产品品质优良。tg：@alibabama401或邮箱：ttpoker40@gmail.com
+德州扑克源代码，出售德州游戏大厅源码，德州竞技者联盟模式代码，有短牌，sng，经典德州，竞技场，朋友局俱乐部。线上成功运营产品，上线iOS和google商店。代码稳定，产品品质优良。tg：@alibabama401或邮箱：ttpoker40@gmail.com；
+
+如果你的银子买不起全套，也可以单独出售客户端或服务器的源码以便学习参考；
 
 
 ![登录](https://github.com/user-attachments/assets/0b6e1623-9a4e-4ac2-9ef6-3b4ff8069099)
